@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="692" height="1433" viewBox="0 0 692 1433">
+  <defs>
+    <filter id="Rectángulo_26730" x="0" y="0" width="692" height="1433" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_59924" data-name="Grupo 59924" transform="translate(-454.5 -2829.5)">
+    <g transform="matrix(1, 0, 0, 1, 454.5, 2829.5)" filter="url(#Rectángulo_26730)">
+      <rect id="Rectángulo_26730-2" data-name="Rectángulo 26730" width="647" height="1388" transform="translate(22.5 22.5)" fill="#fff"/>
+    </g>
+    <rect id="Rectángulo_26707" data-name="Rectángulo 26707" width="573" height="29" transform="translate(514 3190)" fill="#e4eaee"/>
+    <rect id="Rectángulo_26714" data-name="Rectángulo 26714" width="573" height="29" transform="translate(514 3378)" fill="#e4eaee"/>
+    <rect id="Rectángulo_26724" data-name="Rectángulo 26724" width="573" height="29" transform="translate(514 3720)" fill="#e4eaee"/>
+    <rect id="Rectángulo_26711" data-name="Rectángulo 26711" width="573" height="29" transform="translate(514 3297)" fill="#e4eaee"/>
+    <rect id="Rectángulo_26708" data-name="Rectángulo 26708" width="573" height="29" transform="translate(514 3219)" fill="#fff"/>
+    <rect id="Rectángulo_26713" data-name="Rectángulo 26713" width="573" height="29" transform="translate(514 3407)" fill="#fff"/>
+    <rect id="Rectángulo_26725" data-name="Rectángulo 26725" width="573" height="29" transform="translate(514 3749)" fill="#fff"/>
+    <rect id="Rectángulo_26716" data-name="Rectángulo 26716" width="573" height="29" transform="translate(514 3465)" fill="#fff"/>
+    <rect id="Rectángulo_26727" data-name="Rectángulo 26727" width="573" height="29" transform="translate(514 3807)" fill="#fff"/>
+    <rect id="Rectángulo_26718" data-name="Rectángulo 26718" width="573" height="29" transform="translate(514 3523)" fill="#fff"/>
+    <rect id="Rectángulo_26729" data-name="Rectángulo 26729" width="573" height="29" transform="translate(514 3865)" fill="#fed6a8"/>
+    <rect id="Rectángulo_26720" data-name="Rectángulo 26720" width="573" height="29" transform="translate(514 3581)" fill="#fff"/>
+    <rect id="Rectángulo_26722" data-name="Rectángulo 26722" width="573" height="29" transform="translate(514 3639)" fill="#fff"/>
+    <rect id="Rectángulo_26710" data-name="Rectángulo 26710" width="573" height="29" transform="translate(514 3326)" fill="#fff"/>
+    <rect id="Rectángulo_26709" data-name="Rectángulo 26709" width="573" height="29" transform="translate(514 3248)" fill="#e4eaee"/>
+    <rect id="Rectángulo_26712" data-name="Rectángulo 26712" width="573" height="29" transform="translate(514 3436)" fill="#e4eaee"/>
+    <rect id="Rectángulo_26726" data-name="Rectángulo 26726" width="573" height="29" transform="translate(514 3778)" fill="#e4eaee"/>
+    <rect id="Rectángulo_26715" data-name="Rectángulo 26715" width="573" height="29" transform="translate(514 3494)" fill="#e4eaee"/>
+    <rect id="Rectángulo_26728" data-name="Rectángulo 26728" width="573" height="29" transform="translate(514 3836)" fill="#e4eaee"/>
+    <rect id="Rectángulo_26717" data-name="Rectángulo 26717" width="573" height="29" transform="translate(514 3552)" fill="#e4eaee"/>
+    <rect id="Rectángulo_26719" data-name="Rectángulo 26719" width="573" height="29" transform="translate(514 3610)" fill="#e4eaee"/>
+    <rect id="Rectángulo_26723" data-name="Rectángulo 26723" width="573" height="29" transform="translate(514 3668)" fill="#e4eaee"/>
+    <text id="CERTIFICO:_que_el_efectivo_y_justificantes_de_caja_mencionados_fueron_verificados_en_mi_presencia_y_devueltos._No_existiendo_otros_fondos_valores_o_documentos_en_poder_que_no_hayan_sido_mostrados_en_el_arqueo." data-name="CERTIFICO: que el efectivo y justificantes de caja mencionados, fueron verificados en mi presencia y devueltos. No existiendo otros fondos, valores o documentos en poder que no hayan sido mostrados en el arqueo." transform="translate(511 3926.5)" fill="#12263f" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="17">CERTIFICO: </tspan><tspan y="17" font-family="SegoeUI, Segoe UI" font-weight="400">que el efectivo y justificantes de caja mencionados, fueron </tspan><tspan x="0" y="41" font-family="SegoeUI, Segoe UI" font-weight="400">verificados en mi presencia y devueltos. No existiendo otros fondos, valores o </tspan><tspan x="0" y="65" font-family="SegoeUI, Segoe UI" font-weight="400">documentos en poder que no hayan sido mostrados en el arqueo.</tspan></text>
+    <text id="FIRMA_RESPONSABLE_" data-name="FIRMA RESPONSABLE	 " transform="translate(553 4184.5)" fill="#00223d" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="19" xml:space="preserve">Firma responsable	 </tspan></text>
+    <text id="FIRMA_supervisor" data-name="FIRMA supervisor" transform="translate(893 4184.5)" fill="#00223d" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="19">Firma supervisor</tspan></text>
+    <text id="Observaciones:_" data-name="Observaciones:	 " transform="translate(511 4063.5)" fill="#00223d" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="19" xml:space="preserve">Observaciones:	 </tspan></text>
+    <text id="Fecha_de_elaboración:_" data-name="Fecha de elaboración: " transform="translate(514 2939.5)" fill="#12263f" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="19">Fecha de elaboración: </tspan></text>
+    <text id="NOMBRE_RESPONSABLE:" data-name="NOMBRE RESPONSABLE:" transform="translate(525 3192.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">Nombre responsable:</tspan></text>
+    <text id="BILLETES_DE_50.000" data-name="BILLETES DE $50.000" transform="translate(525 3381.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">Billetes de $50.000</tspan></text>
+    <text id="OTROS_FONDOS" data-name="OTROS FONDOS" transform="translate(525 3722.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">Otros fondos</tspan></text>
+    <text id="EFECTIVO" transform="translate(525 3299.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">Efectivo</tspan></text>
+    <text id="FECHA_Y_HORA_DE_REALIZACIÓN:" data-name="FECHA Y HORA DE REALIZACIÓN:" transform="translate(525 3221.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">Fecha y hora de realización:</tspan></text>
+    <text id="BILLETES_DE_20.000" data-name="BILLETES DE $20.000" transform="translate(525 3410.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">Billetes de $20.000</tspan></text>
+    <text id="VALES" transform="translate(525 3751.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">Vales</tspan></text>
+    <text id="BILLETES_DE_5.000" data-name="BILLETES DE $5.000" transform="translate(525 3468.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">Billetes de $5.000</tspan></text>
+    <text id="ANTICIPOS" transform="translate(525 3809.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">Anticipos</tspan></text>
+    <text id="BILLETES_DE_1.000" data-name="BILLETES DE $1.000" transform="translate(525 3526.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">Billetes de $1.000</tspan></text>
+    <text id="TOTAL_SALDO_CAJA" data-name="TOTAL SALDO CAJA" transform="translate(525 3867.5)" fill="#00223d" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="19">TOTAL SALDO CAJA</tspan></text>
+    <text id="MONEDAS_DE_500" data-name="MONEDAS DE $500" transform="translate(525 3584.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">Monedas de $500</tspan></text>
+    <text id="MONEDAS_DE_100" data-name="MONEDAS DE $100" transform="translate(524 3641.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">Monedas de $100</tspan></text>
+    <text id="FECHA_Y_HORA_DE_REALIZACIÓN:-2" data-name="FECHA Y HORA DE REALIZACIÓN:" transform="translate(525 3328.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">Fecha y hora de realización:</tspan></text>
+    <text id="SALDO_SEGÚN_LIBRO_DE_CAJA:" data-name="SALDO SEGÚN LIBRO DE CAJA:" transform="translate(523 3254.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">Saldo según libro de caja:</tspan></text>
+    <text id="BILLETES_DE_10.000" data-name="BILLETES DE $10.000" transform="translate(523 3442.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">Billetes de $10.000</tspan></text>
+    <text id="FACTURAS" transform="translate(523 3784.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">Facturas</tspan></text>
+    <text id="BILLETES_DE_2.000" data-name="BILLETES DE $2.000" transform="translate(523 3500.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">Billetes de $2.000</tspan></text>
+    <text id="OTROS_FONDOS-2" data-name="OTROS FONDOS" transform="translate(523 3842.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">Otros fondos</tspan></text>
+    <text id="MONEDAS_DE_1.000" data-name="MONEDAS DE $1.000" transform="translate(523 3558.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">Monedas de $1.000</tspan></text>
+    <text id="MONEDAS_DE_200" data-name="MONEDAS DE $200" transform="translate(523 3615.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">Monedas de $200</tspan></text>
+    <text id="MONEDAS_DE_500-2" data-name="MONEDAS DE $500" transform="translate(523 3673.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">Monedas de $500</tspan></text>
+    <text id="XXXXXXX" transform="translate(883 3192.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">XXXXXXX</tspan></text>
+    <text id="_0_00" data-name="0,00" transform="translate(883 3381.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="156.988" y="19">0,00</tspan></text>
+    <text id="_0_00-2" data-name="0,00" transform="translate(883 3722.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="156.988" y="19">0,00</tspan></text>
+    <text id="_0_00-3" data-name="0,00" transform="translate(882 3469.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="156.988" y="19">0,00</tspan></text>
+    <text id="_0_00-4" data-name="0,00" transform="translate(882 3811.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="156.988" y="19">0,00</tspan></text>
+    <text id="_0_00-5" data-name="0,00" transform="translate(882 3556.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="156.988" y="19">0,00</tspan></text>
+    <text id="_0_00-6" data-name="0,00" transform="translate(883 3410.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="156.988" y="19">0,00</tspan></text>
+    <text id="_0_00-7" data-name="0,00" transform="translate(883 3751.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="156.988" y="19">0,00</tspan></text>
+    <text id="_0_00-8" data-name="0,00" transform="translate(882 3498.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="156.988" y="19">0,00</tspan></text>
+    <text id="_0_00-9" data-name="0,00" transform="translate(882 3840.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="156.988" y="19">0,00</tspan></text>
+    <text id="_0_00-10" data-name="0,00" transform="translate(882 3585.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="156.988" y="19">0,00</tspan></text>
+    <text id="_0_00-11" data-name="0,00" transform="translate(883 3439.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="156.988" y="19">0,00</tspan></text>
+    <text id="_0_00-12" data-name="0,00" transform="translate(883 3781.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="156.988" y="19">0,00</tspan></text>
+    <text id="_0_00-13" data-name="0,00" transform="translate(882 3528.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="156.988" y="19">0,00</tspan></text>
+    <text id="_0" data-name="0" transform="translate(882 3870.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="180.297" y="19">0</tspan></text>
+    <text id="_0_00-14" data-name="0,00" transform="translate(882 3615.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="156.988" y="19">0,00</tspan></text>
+    <text id="_0_00-15" data-name="0,00" transform="translate(882 3672.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="156.988" y="19">0,00</tspan></text>
+    <text id="_0_00-16" data-name="0,00" transform="translate(882 3643.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="156.988" y="19">0,00</tspan></text>
+    <text id="_" data-name="$" transform="translate(883 3299.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">$</tspan></text>
+    <text id="DIA_MES_AÑO" data-name="DIA/MES/AÑO" transform="translate(866 3221.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">DIA/MES/AÑO</tspan></text>
+    <text id="UNIDADES" transform="translate(781 3330.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="37.34" y="19">Unidades</tspan></text>
+    <text id="Total" transform="translate(935 3330.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="38.682" y="19">Total</tspan></text>
+    <text id="_0.000.000_00" data-name="0.000.000,00" transform="translate(858 3254.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="22.482" y="19">0.000.000,00</tspan></text>
+    <line id="Línea_366" data-name="Línea 366" y2="704" transform="translate(778.759 3190.5)" fill="none" stroke="#98d1d1" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+    <line id="Línea_367" data-name="Línea 367" y2="537" transform="translate(929.759 3326.5)" fill="none" stroke="#98d1d1" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+    <rect id="Rectángulo_26704" data-name="Rectángulo 26704" width="573" height="29" transform="translate(514 3032)" fill="#cbd8df" opacity="0.4"/>
+    <rect id="Rectángulo_26706" data-name="Rectángulo 26706" width="573" height="29" transform="translate(514 3061)" fill="#fff"/>
+    <rect id="Rectángulo_26757" data-name="Rectángulo 26757" width="265" height="61" transform="translate(514 2971)" fill="#fbfbf9"/>
+    <rect id="Rectángulo_26705" data-name="Rectángulo 26705" width="573" height="29" transform="translate(514 3090)" fill="#cbd8df" opacity="0.4"/>
+    <text id="NOMBRE_DE_LA_EMPRESA:_" data-name="NOMBRE DE LA EMPRESA: " transform="translate(525 3037.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">Nombre de la empresa: </tspan></text>
+    <text id="TELÉFONO:" transform="translate(885 3065.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">Teléfono:</tspan></text>
+    <text id="NIT_DE_LA_EMPRESA:" data-name="NIT DE LA EMPRESA:" transform="translate(525 3065.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">Nit de la empresa:</tspan></text>
+    <text id="DIRECCIÓN_DE_LA_EMPRESA:" data-name="DIRECCIÓN DE LA EMPRESA:" transform="translate(525 3092.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">Dirección de la empresa:</tspan></text>
+    <line id="Línea_44" data-name="Línea 44" y2="87" transform="translate(778.761 3032.5)" fill="none" stroke="#98d1d1" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+    <line id="Línea_369" data-name="Línea 369" x2="250" transform="translate(511.5 4177.5)" fill="none" stroke="#00223d" stroke-width="1"/>
+    <line id="Línea_370" data-name="Línea 370" x2="250" transform="translate(837.5 4177.5)" fill="none" stroke="#00223d" stroke-width="1"/>
+    <path id="Trazado_100470" data-name="Trazado 100470" d="M0,0H648V70H0Z" transform="translate(476 2852)" fill="#003f62"/>
+    <path id="Trazado_106624" data-name="Trazado 106624" d="M0,0H573V70H0Z" transform="translate(514 3119)" fill="#98d1d1"/>
+    <text id="Arqueo_Caja_Menor" data-name="Arqueo Caja Menor" transform="translate(702 2877)" fill="#fff" font-size="18" font-family="SegoeUIBlack, Segoe UI"><tspan x="-85.557" y="19">Arqueo Caja Menor</tspan></text>
+    <text id="LOGO_DE_LA_EMPRESA" data-name="LOGO DE LA
+EMPRESA" transform="translate(525 2977.5)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">Logo de la</tspan><tspan x="0" y="43">empresa</tspan></text>
+    <text id="ACTA_DE_ARQUEO_CAJA" data-name="ACTA DE ARQUEO CAJA" transform="translate(616 3144)" fill="#00223d" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-83.171" y="19">Acta de arqueo caja</tspan></text>
+  </g>
+</svg>
