@@ -1,8 +1,8 @@
 export default {
   global: {
-    Name: 'Manejo de efectivo y equivalente al efectivo',
+    Name: 'Manejo de efectivo y equivalentes al efectivo',
     Description:
-      'En el presente componente formativo, se desarrolla la temática de efectivo y equivalente al efectivo; para ello, se tendrán en cuenta los criterios de reconocimiento, medición, presentación y revelación. Recordemos que estos elementos son muy importantes en el ámbito empresarial, toda vez que, permiten dar cumplimiento a los compromisos adquiridos, teniendo en cuenta la capacidad de liquidez y, a su vez, la fomentación de un adecuado manejo que permita salvaguardar el activo de la organización.',
+      'En el presente componente formativo, se desarrolla la temática de efectivo y equivalente al efectivo; para ello, se tendrán en cuenta los criterios de reconocimiento, medición, presentación y revelación. Recordemos que estos elementos son muy importantes en el ámbito empresarial, toda vez que permiten dar cumplimiento a los compromisos adquiridos, teniendo en cuenta la capacidad de liquidez y, a su vez, la fomentación de un adecuado manejo que permita salvaguardar el activo de la organización.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -56,7 +56,7 @@ export default {
           },
           {
             numero: '1.4',
-            titulo: 'Conciliación Bancaria',
+            titulo: 'Conciliación bancaria',
             hash: 't_1_4',
           },
           {
@@ -164,7 +164,7 @@ export default {
     {
       termino: 'Equivalentes de efectivo',
       significado:
-        'Este concepto hace énfasis a las inversiones a corto plazo (menor a 90 días), que tienen gran liquidez y se encuentran sujetas a un riesgo insignificante.',
+        'Este concepto hace énfasis en las inversiones a corto plazo (menor a 90 días), que tienen gran liquidez y se encuentran sujetas a un riesgo insignificante.',
     },
     {
       termino: 'Extracto bancario',
