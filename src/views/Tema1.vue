@@ -741,25 +741,7 @@
             h5 Figura 8. 
             span Conciliación bancaria con método de saldos encontrados - Julio 2020
           figure(data-aos="fade-up").ajuste-image__bloque3-1
-            img.mb-4(src='@/assets/curso/tema1/img47.svg', alt='Formato de conciliación bancaria que presenta el saldo del extracto, valores pendientes por registrar en libros como consignaciones y cheques, y valores no registrados en el extracto como notas débito. Incluye fechas, conceptos, valores y cálculo del saldo final según libros, con diferencia contable igual a cero.' style="max-width: 1050px")
-      
-      .row.ajuste-espacios-movil
-        .col-xl-1
-        .col-xl-10
-          .row.align-items-center
-            .col-xl
-              p Con el fin de profundizar en el proceso de elaboración de la conciliación bancaria, es importante explorar la Biblioteca SENA y los siguientes enlaces:
-              .row.caja-text-img-tema1-4.align-items-center.m-0(data-aos="fade-up")
-                .col-xl-auto
-                  figure(data-aos="fade-right").d-none.d-xl-block
-                    img(src='@/assets/curso/tema1/img48.svg', alt='' style="max-width: 300px").m-auto
-                .col-xl
-                  p.m-0 Angulo, U. (2018). Contabilidad financiera, correlacionado con NIIF. (2a. ed.) Ediciones de la U.
-                    
-                        
-            .col-xl-auto
-              figure(data-aos="fade-left").d-none.d-xl-block
-                img(src='@/assets/curso/tema1/img49.svg', alt='' style="max-width: 300px").m-auto
+            img.mb-0(src='@/assets/curso/tema1/img47.svg', alt='Formato de conciliación bancaria que presenta el saldo del extracto, valores pendientes por registrar en libros como consignaciones y cheques, y valores no registrados en el extracto como notas débito. Incluye fechas, conceptos, valores y cálculo del saldo final según libros, con diferencia contable igual a cero.' style="max-width: 1050px")
 
     Separador
     <!-- BLOQUE 5 -->
