@@ -98,7 +98,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/123101_CF06_DU.zip',
+        download: 'downloads/123103_CF06_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -277,9 +277,9 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Milady Tatiana Villamil Castellanos',
+          nombre: 'Claudia Johanna Gómez Pérez',
           cargo: 'Líder del ecosistema',
-          centro: 'Dirección General',
+          centro: ' Centro Agroturístico- Regional Santander',
         },
         {
           nombre: 'Olga Constanza Bermudez Jaimes',
