@@ -1,6 +1,6 @@
 export default {
   global: {
-    Name: 'Manejo de efectivo y equivalentes al efectivo',
+    Name: 'Manejo de efectivo y equivalente al efectivo',
     Description:
       'En el presente componente formativo, se desarrolla la temática de efectivo y equivalente al efectivo; para ello, se tendrán en cuenta los criterios de reconocimiento, medición, presentación y revelación. Recordemos que estos elementos son muy importantes en el ámbito empresarial, toda vez que permiten dar cumplimiento a los compromisos adquiridos, teniendo en cuenta la capacidad de liquidez y, a su vez, la fomentación de un adecuado manejo que permita salvaguardar el activo de la organización.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
@@ -139,12 +139,12 @@ export default {
     {
       termino: 'Banco',
       significado:
-        'Es una cuenta contable que refleja los depósitos financieros, se puede presentar en moneda nacional o extranjera.',
+        'Es una cuenta contable que refleja los depósitos financieros; se puede presentar en moneda nacional o extranjera.',
     },
     {
       termino: 'Caja menor',
       significado:
-        'Es una cuenta contable que maneja cuantías menores, dependiendo de las políticas empresariales. A este fondo se asigna un responsable para su administración y control.',
+        'Es una cuenta contable que maneja cuantías menores, dependiendo de las políticas empresariales. A este fondo se le asigna un responsable para su administración y control.',
     },
     {
       termino: 'Conciliación bancaria',
@@ -164,7 +164,7 @@ export default {
     {
       termino: 'Equivalentes de efectivo',
       significado:
-        'Este concepto hace énfasis en las inversiones a corto plazo (menor a 90 días), que tienen gran liquidez y se encuentran sujetas a un riesgo insignificante.',
+        'Este concepto hace énfasis en las inversiones a corto plazo (menores a 90 días), que tienen gran liquidez y se encuentran sujetas a un riesgo insignificante.',
     },
     {
       termino: 'Extracto bancario',
@@ -174,7 +174,7 @@ export default {
     {
       termino: 'Políticas contables',
       significado:
-        'Son las bases, normas y procedimientos que debe de tener en cuenta una entidad para la medición, presentación y revelación de los elementos de los estados financieros.',
+        'Son las bases, normas y procedimientos que debe tener en cuenta una entidad para la medición, presentación y revelación de los elementos de los estados financieros.',
     },
     {
       termino: 'Valor razonable',
@@ -212,8 +212,7 @@ export default {
     {
       referencia:
         'Fierro Martínez, Ángel María (2011). Contabilidad General (4ª ed.). Ecoe Ediciones. ',
-      link:
-        'https://normasinternacionalesdecontabilidad.es/normas-internacionales/',
+      link: '',
     },
     {
       referencia:
@@ -233,11 +232,6 @@ export default {
       referencia:
         'Moncayo, C. Definición de activos y pasivos en las normas internacionales de información financiera (NIIF). Instituto Nacional de Contadores Públicos de Colombia. ',
       link: '',
-    },
-    {
-      referencia: 'Normas Internacionales de Contabilidad. ',
-      link:
-        'https://normasinternacionalesdecontabilidad.es/normas-internacionales/',
     },
     {
       referencia:
@@ -308,13 +302,25 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Blanca Flor Tinoco Torres ',
+          nombre: 'Blanca Flor Tinoco Torres',
+          cargo: 'Diseñador de contenidos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Jorge David Barbosa Losada',
           cargo: 'Diseñador de contenidos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Robinson Javier Ordoñez Barreiro',
+          cargo: 'Desarrollador <i>full stack</i>',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Cristian Fernando Martinez Sanchez',
           cargo: 'Desarrollador <i>full stack</i>',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
@@ -373,6 +379,12 @@ export default {
         },
         {
           nombre: 'Jaime Hernán Tejada Llano',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Ricardo Oliveros Zambrano',
           cargo: 'Validador de recursos educativos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',

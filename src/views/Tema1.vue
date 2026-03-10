@@ -10,7 +10,7 @@
     <!-- BLOQUE 0 -->
     .row.mb-5
       .col-xl
-        p.mb-0.caja-text-tema1.mb-3(data-aos="fade-right") Las empresa, en el desarrollo normal de sus operaciones, deben aplicar criterios y lineamientos para el adecuado manejo del efectivo y sus equivalentes. El objetivo es tener la habilidad para tomar decisiones que aumenten la capacidad de generar liquidez y, de esta manera, atender las necesidades de la organización o, en su defecto, realizar inversiones que generen rentabilidad. El efectivo y equivalentes al efectivo pertenecen al activo corriente del estado de la situación financiera.
+        p.mb-0.caja-text-tema1.mb-3(data-aos="fade-right") Las empresas, en el desarrollo normal de sus operaciones, deben aplicar criterios y lineamientos para el adecuado manejo del efectivo y sus equivalentes. El objetivo es tener la habilidad para tomar decisiones que aumenten la capacidad de generar liquidez y, de esta manera, atender las necesidades de la organización o, en su defecto, realizar inversiones que generen rentabilidad. El efectivo y equivalentes al efectivo pertenecen al activo corriente del estado de la situación financiera.
         p.mb-0 Teniendo en cuenta lo anterior, es importante conocer su clasificación; por ende, se analizarán los conceptos necesarios que permitan continuar con los lineamientos para el diseño de políticas contables que le conciernen.
       .col-xl-auto
         figure(data-aos="fade-left").d-none.d-xl-block
@@ -48,7 +48,7 @@
       .col
         h3 Equivalentes al efectivo
     
-    p.mb-5.ajuste-espacios-movil Este concepto hace énfasis a las inversiones a corto plazo (menor a 90 días), que tienen gran liquidez y se encuentran sujetas a un riesgo insignificante. Entre los equivalentes al efectivo encontramos las siguientes inversiones: Certificado de depósito a término (CDT), bonos y fiducia.
+    p.mb-5.ajuste-espacios-movil Este concepto hace énfasis a las inversiones en corto plazo (menores a 90 días), que tienen gran liquidez y se encuentran sujetas a un riesgo insignificante. Entre los equivalentes al efectivo encontramos las siguientes inversiones: Certificado de depósito a término (CDT), bonos y fiducia.
 
     .row.mb-5.align-items-center.ajuste-espacios-movil
       .col-xl-auto
@@ -101,7 +101,7 @@
             .row(titulo="De acuerdo con los rendimientos que generen").ajuste-cajaAcordion
               <ul class="fa-ul">
                 <li class="mb-3"><span class="fa-li"><i class="fas fa-chevron-right"></i></span><strong>Inversiones de renta fija</strong>: son inversiones cuyo rendimiento no cambia durante su vigencia, es decir, siempre producen los mismos rendimientos.</li>
-                <li><span class="fa-li"><i class="fas fa-chevron-right"></i></span><strong>Inversiones de renta variable</strong>: son inversiones cuyos rendimientos dependen del mercado, es decir, que se encuentran asociado al comportamiento de la oferta y la demanda.</li>
+                <li><span class="fa-li"><i class="fas fa-chevron-right"></i></span><strong>Inversiones de renta variable</strong>: son inversiones cuyos rendimientos dependen del mercado, es decir, que se encuentran asociados al comportamiento de la oferta y la demanda.</li>
               </ul>      
             .row(titulo="De acuerdo con el control que ejerzan sobre el ente emisor").ajuste-cajaAcordion
               <ul class="fa-ul">
@@ -140,7 +140,7 @@
             .col-lg-6.mb-4.col-xs-12
               h4.mb-4 Reconocimiento de los activos
               p Debe dar cumplimiento al concepto de activo, de acuerdo con los elementos que lo componen para el proceso de incorporación en el Estado de situación financiera.
-              p Recordemos que un <strong>activo</strong> es “un recurso controlado por la entidad como resultado de sucesos pasados, del que la entidad espera obtener, en el futuro, beneficios económicos” (Moncayo, 2016, párr.1).
+              p Recordemos que un <strong>activo</strong> es “un recurso controlado por la entidad como resultado de sucesos pasados, del que la entidad espera obtener, en el futuro, beneficios económicos” (Moncayo, 2016, párr. 1).
               p.mb-0 Los activos se reconocen en el momento en que se presenta la transacción en efectivo o es transferido a una entidad financiera.
             .col-lg-6
               figure
@@ -181,7 +181,7 @@
           .row.h-100.justify-content-center.align-items-center
             .col-lg-6.mb-4.col-xs-12
               h4.mb-4 Relacionar el alcance
-              p Expresar los elementos o partidas monetarias que se aplicarán a dicha política, en este sentido, dará aplicación al efectivo y sus equivalentes.
+              p Expresar los elementos o partidas monetarias que se aplicarán a dicha política; en este sentido, dará aplicación al efectivo y sus equivalentes.
             .col-lg-6
               figure
                 img(src='@/assets/curso/tema1/img11.png', alt='')
@@ -200,15 +200,14 @@
         figure.d-none.d-xl-block(data-aos="fade-right")
           img(src="@/assets/curso/tema1/img15.png", alt='', style="max-width: 300px" ).m-auto
       .col-xl
-        LineaTiempoD.color-primario(data-aos="fade-up")
-          .row(numero="1" titulo="Norma Internacional de Contabilidad (NIC) 32 - Instrumentos financieros: presentación, que expresa lo siguiente:")
-            .col-lg.mb-md-0.ajuste-margen-lineatiempo
+        AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")
+          .row(titulo="1. Norma Internacional de Contabilidad (NIC) 32 - Instrumentos financieros: presentación, que expresa lo siguiente:")
+            .col-12
               p <strong>Objetivo</strong>: el objetivo de esta norma es establecer principios para presentar los instrumentos financieros como pasivos o patrimonio y para compensar activos y pasivos financieros.
               p Aplica a la clasificación de los instrumentos financieros (desde la perspectiva del emisor) en activos y pasivos financieros, e instrumentos de patrimonio; en la clasificación de los intereses, dividendos, pérdidas y ganancias relacionadas con ellos, y en las circunstancias que obligan a la compensación de activos y pasivos financieros.
-              p.mb-0 Los principios de esta norma complementan los principios de reconocimiento y medición de los activos y pasivos financieros de la NIIF 9, Instrumentos financieros, y a la información a revelar sobre ellos en la NIIF 7, Instrumentos financieros: información a revelar. Consejo Técnico de la Contaduría Pública (CTCP, 2019a, p.229).
-
-          .row(numero="2" titulo="Norma Internacional de Información Financiera (NIIF) 7- Instrumentos financieros: información a revelar")
-            .col-lg.mb-md-0.ajuste-margen-lineatiempo
+              p.mb-0 Los principios de esta norma complementan los principios de reconocimiento y medición de los activos y pasivos financieros de la NIIF 9, Instrumentos financieros, y a la información a revelar sobre ellos en la NIIF 7, Instrumentos financieros: información a revelar. Consejo Técnico de la Contaduría Pública (CTCP, 2019a, p. 229).
+          .row(titulo="2. Norma Internacional de Información Financiera (NIIF) 7 - Instrumentos financieros: información a revelar:")
+            .col-12
               h5.mb-4 Objetivo:
               ol.lista-ol--cuadro-bloque1.mb-0
                 li.mb-3 
@@ -218,19 +217,18 @@
                 li.ajustar-linea.mb-3
                   .lista-ol--cuadro__vineta
                     span a
-                  | la relevancia de los instrumentos financieros en la situación financiera y en el rendimiento de la entidad; y 
+                  | La relevancia de los instrumentos financieros en la situación financiera y en el rendimiento de la entidad.
                 li.ajustar-linea.mb-3
                   .lista-ol--cuadro__vineta
                     span b
-                  | la naturaleza y alcance de los riesgos procedentes de los instrumentos financieros a los que la entidad se haya expuesto durante el periodo y lo esté al final del periodo sobre el que se informa, así como la forma de gestionar dichos riesgos.
+                  | La naturaleza y alcance de los riesgos procedentes de los instrumentos financieros a los que la entidad se haya expuesto durante el periodo y lo esté al final del periodo sobre el que se informa, así como la forma de gestionar dichos riesgos.
                 li
                   .lista-ol--cuadro__vineta
                     span 2
                   | Los principios contenidos en esta NIIF complementan a los de reconocimiento, medición y presentación de los activos financieros y los financieros de la NIC 32 Instrumentos Financieros: Presentación de la NIIF 9 Instrumentos Financieros. (CTCP, 2019a, p.229).
-
-          .row(numero="3" titulo="Norma Internacional de Información Financiera (NIIF) 9 Instrumentos financieros")
-            .col-lg.mb-md-0.ajuste-margen-lineatiempo
-              p <strong>Objetivo</strong>: el objetivo de esta norma es establecer los principios para la información financiera, sobre activos y pasivos financieros, de tal manera que se presente información útil y relevante para los usuarios de los estados financieros, para la evaluación de los importes, calendario e incertidumbre de los flujos de efectivo futuros de la entidad (CTCP, 2019b, p.340).
+          .row(titulo="3. Norma Internacional de Información Financiera (NIIF) 9 - Instrumentos financieros:")
+            .col-12
+              p <strong>Objetivo</strong>: el objetivo de esta norma es establecer los principios para la información financiera sobre activos y pasivos financieros, de tal manera que se presente información útil y relevante para los usuarios de los estados financieros, para la evaluación de los importes, calendario e incertidumbre de los flujos de efectivo futuros de la entidad (CTCP, 2019b, p.340).
               p Para ampliar el alcance y lineamientos aplicables, es importante revisar la norma internacional vigente; para ello, explore los siguientes enlaces:
               a.anexo.mb-4.mb-lg-0(href="https://www.ctcp.gov.co/proyectos/contabilidad-e-informacion-financiera/documentos-discusion-publica/enmienda-a-la-niif-9-instrumentos/doc-ctcp-xl8w9-141" target="_blank")
                 .anexo__icono
@@ -305,7 +303,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema1/img21.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Por lo anterior, es fundamental realizar arqueos de caja, lo cual consiste en analizar y comprobar que la información contable coincida con el efectivo que se encuentra de forma física (billetes, monedas, cheques).  Se debe verificar que no presenten faltantes o sobrantes de caja, de llegar a suceder, se realiza el respectivo ajuste mediante una nota contable. El faltante resulta cuando se realiza el arqueo y se observa que el valor en la caja es menor que el saldo que se refleja en los libros.
+        p.mb-0 Por lo anterior, es fundamental realizar arqueos de caja, lo cual consiste en analizar y comprobar que la información contable coincida con el efectivo que se encuentra de forma física (billetes, monedas, cheques).  Se debe verificar que no presenten faltantes o sobrantes de caja; de llegar a suceder, se realiza el respectivo ajuste mediante una nota contable. El faltante resulta cuando se realiza el arqueo y se observa que el valor en la caja es menor que el saldo que se refleja en los libros.
     
     p.mb-5 La entidad elabora el formato para registrar la información obtenida en el arqueo de caja. A continuación, observa el formato guía para su análisis:
 
@@ -342,27 +340,27 @@
           table
             thead
               tr
-                th.ajuste-border-tabla Concepto
-                th Valor
+                th.ajuste-border-tabla.texto-left Concepto
+                th.texto-left Valor
             tbody
               tr
                 td.ajuste-border-tabla.texto-left Elementos de aseo
-                td.texto-right $120.000
+                td.texto-left $120.000
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Papelería
-                td.texto-right $80.000
+                td.texto-left $80.000
               tr  
                 td.ajuste-border-tabla.texto-left Transporte
-                td.texto-right $150.000
+                td.texto-left $150.000
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Almuerzos 
-                td.texto-right $80.000 
+                td.texto-left $80.000 
               tr  
                 td.ajuste-border-tabla.texto-left Gasolina
-                td.texto-right $50.000
+                td.texto-left $50.000
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left <strong>Total</strong>
-                td.texto-right <strong>$480.000</strong>
+                td.texto-left <strong>$480.000</strong>
     
     .row.mb-3.align-items-center
       .col-xl-1
@@ -394,16 +392,16 @@
             tbody
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Caja Menor
-                td.ajuste-border-tabla.texto-right $500.000
-                td.texto-right -
+                td.ajuste-border-tabla.texto-left $500.000
+                td.texto-left -
               tr
                 td.ajuste-border-tabla.texto-left Bancos
-                td.ajuste-border-tabla.texto-right -
-                td.texto-right $500.000
+                td.ajuste-border-tabla.texto-left -
+                td.texto-left $500.000
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left <strong>Total</strong>
-                td.ajuste-border-tabla.texto-right $500.000
-                td.texto-right $500.000
+                td.ajuste-border-tabla.texto-left $500.000
+                td.texto-left $500.000
       .col-xl-4
         figure(data-aos="fade-right").d-none.d-xl-block
           img(src="@/assets/curso/tema1/img26.svg" style="max-width: 400px").m-auto
@@ -455,38 +453,38 @@
           table
             thead
               tr
-                th.ajuste-border-tabla Cuenta
-                th.ajuste-border-tabla Debe
-                th Haber
+                th.ajuste-border-tabla.texto-left Cuenta
+                th.ajuste-border-tabla.texto-left Debe
+                th.texto-left Haber
             tbody
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Combustibles y lubricantes
-                td.ajuste-border-tabla.texto-right $50.000
-                td.texto-right -
+                td.ajuste-border-tabla.texto-left $50.000
+                td.texto-left -
               tr
                 td.ajuste-border-tabla.texto-left Elementos de aseo
-                td.ajuste-border-tabla.texto-right $120.000
-                td.texto-right -
+                td.ajuste-border-tabla.texto-left $120.000
+                td.texto-left -
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Transporte y fletes
-                td.ajuste-border-tabla.texto-right $150.000
-                td.texto-right -
+                td.ajuste-border-tabla.texto-left $150.000
+                td.texto-left -
               tr
                 td.ajuste-border-tabla.texto-left Útiles, papelería y fotocopias
-                td.ajuste-border-tabla.texto-right $80.000
-                td.texto-right -
+                td.ajuste-border-tabla.texto-left $80.000
+                td.texto-left -
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Casino y restaurante
-                td.ajuste-border-tabla.texto-right $80.000
-                td.texto-right -
+                td.ajuste-border-tabla.texto-left $80.000
+                td.texto-left -
               tr
                 td.ajuste-border-tabla.texto-left Bancos
-                td.ajuste-border-tabla.texto-right -
-                td.texto-right $480.000
+                td.ajuste-border-tabla.texto-left -
+                td.texto-left $480.000
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left <strong>Total</strong>
-                td.ajuste-border-tabla.texto-right <strong>$480.000</strong>
-                td.texto-right <strong>$480.000</strong>
+                td.ajuste-border-tabla.texto-left <strong>$480.000</strong>
+                td.texto-left <strong>$480.000</strong>
       .col-xl-4
         figure(data-aos="fade-right").d-none.d-xl-block
           img(src="@/assets/curso/tema1/img29.svg" style="max-width: 400px").m-auto
@@ -515,7 +513,7 @@
       #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 1.4 Conciliación bancaria
       
-      p.mb-4 La <strong>conciliación bancaria</strong> es un procedimiento que permite comparar los registros contables de una empresa con el extracto emitido por la entidad financiera. Su objetivo es identificar y analizar las diferencias entre ambos saldos, asegurando la veracidad de la información registrada. Este proceso facilita el control interno, la detección de errores u omisiones, y la toma de decisiones contables oportunas.
+      p.mb-4 La <strong>conciliación bancaria</strong> es un procedimiento que permite comparar los registros contables de una empresa con el extracto emitido por la entidad financiera. Su objetivo es identificar y analizar las diferencias entre ambos saldos, asegurando la veracidad de la información registrada. Este proceso facilita el control interno, la detección de errores u omisiones y la toma de decisiones contables oportunas.
     
     .video.mb-5(data-aos="fade-up")
       <iframe width="560" height="315" src="https://www.youtube.com/embed/L3WN5YPuX_w" title="Conciliación bancaria" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -549,7 +547,7 @@
             .col
               figure.mb-3
                 img(src='@/assets/curso/tema1/img34.svg', alt='' style="max-width: 95px").m-auto
-              p.mb-0 Errores y omisiones de la empresa y/o del banco. Errores en los libros (Amador, A., 2013, p.2).
+              p.mb-0 Errores y omisiones de la empresa y/o del banco. Errores en los libros (Amador, A., 2013, p. 2).
 
       .row.mb-4.align-items-center
         .col-xl
@@ -594,25 +592,25 @@
                 tbody
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left Saldo del extracto bancario
-                    td XXX
+                    td.texto-left XXX
                   tr
                     td.ajuste-border-tabla.texto-left (-) Cheques pendientes de cobro
-                    td XXX
+                    td.texto-left XXX
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left (-) Notas crédito no registradas
-                    td XXX
+                    td.texto-left XXX
                   tr
                     td.ajuste-border-tabla.texto-left (+) Consignaciones pendientes
-                    td XXX
+                    td.texto-left XXX
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left (+) Notas debito no registradas
-                    td XXX
+                    td.texto-left XXX
                   tr
                     td.ajuste-border-tabla.texto-left (±) Errores en el auxiliar
-                    td XXX
+                    td.texto-left XXX
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left = Saldo en libros
-                    td XXX
+                    td.texto-left XXX
 
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
       .col-lg-auto
@@ -654,7 +652,7 @@
           li 
             .lista-ol--cuadro__vineta
               span 1
-            | Realice la conciliación bancaria teniendo en cuenta utilizar el formato básico y aplicar el método “Saldos encontrados” y “Saldos correctos”, con la siguiente información suministrada por la empresa Gestión Contable SAS:
+            | Realice la conciliación bancaria teniendo en cuenta utilizar el formato básico y aplicar el método “saldos encontrados” y “saldos correctos”, con la siguiente información suministrada por la empresa Gestión Contable SAS:
 
     .row.fondo-color-5
       .col-xl-3
@@ -684,33 +682,33 @@
                 table
                   thead
                     tr
-                      th.ajuste-border-tabla Concepto
-                      th Valor
+                      th.ajuste-border-tabla.texto-left Concepto
+                      th.texto-left Valor
                   tbody
                     tr
                       td.ajuste-border-tabla.texto-left Saldo en libros
-                      td.texto-right $1.170.122 
+                      td.texto-left $1.170.122 
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left Menos: Notas débito
-                      td.texto-right $579.666 
+                      td.texto-left $579.666 
                     tr
                       td.ajuste-border-tabla.texto-left Más: Notas crédito
-                      td.texto-right $12.566 
+                      td.texto-left $12.566 
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left Saldo ajustado en libros
-                      td.texto-right $603.022 
+                      td.texto-left $603.022 
                     tr
                       td.ajuste-border-tabla.texto-left Saldo en extracto bancario a 31 marzo
-                      td.texto-right $8.955.336 
+                      td.texto-left $8.955.336 
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left Más: consignaciones en tránsito
-                      td.texto-right $1.955.336 
+                      td.texto-left $1.955.336 
                     tr
                       td.ajuste-border-tabla.texto-left Menos: cheques girados y no cobrados
-                      td.texto-right $10.307.650 
+                      td.texto-left $10.307.650 
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left Saldo ajustado al extracto
-                      td.texto-right $603.022 
+                      td.texto-left $603.022 
             .col-xl-4
               figure(data-aos="fade-left").d-none.d-xl-block
                 img(src='@/assets/curso/tema1/img45.svg', alt='' style="max-width: 400px")
@@ -765,7 +763,7 @@
       .row.mb-4.align-items-center.mb-5
         .col-xl
           p Una entidad puede llevar a cabo actividades en el extranjero de dos maneras diferentes. Puede realizar transacciones en moneda extranjera o bien puede tener negocios en el extranjero. Además, una entidad puede presentar sus estados financieros en una moneda extranjera. El objetivo de esta norma es prescribir cómo se incorporan, en los estados financieros de una entidad, las transacciones en moneda extranjera y los negocios en el extranjero, y cómo convertir los estados financieros a la moneda de presentación elegida. 
-          p.mb-0 Los principales problemas que se presentan son la tasa o tasas de cambio a utilizar, así como la manera de informar sobre los efectos de las variaciones en las tasas de cambio dentro de los estados financieros. Consejo Técnico de la Contaduría Pública (CTCP, 2019c, p.503).
+          p.mb-0 Los principales problemas que se presentan son la tasa o tasas de cambio a utilizar, así como la manera de informar sobre los efectos de las variaciones en las tasas de cambio dentro de los estados financieros. Consejo Técnico de la Contaduría Pública (CTCP, 2019c, p. 503).
         .col-xl-auto
           figure(data-aos="fade-left").d-none.d-xl-block
             img(src='@/assets/curso/tema1/img51.svg', alt='' style="max-width: 400px").m-auto
@@ -785,17 +783,17 @@
             li 
               .lista-ol--cuadro__vineta
                 span a
-              | Al contabilizar las transacciones y saldos en moneda extranjera, excepto las transacciones y saldos con derivados que estén dentro del alcance de la NIIF 9- Instrumentos financieros; 
+              | Al contabilizar las transacciones y saldos en moneda extranjera, excepto las transacciones y saldos con derivados que estén dentro del alcance de la NIIF 9 - Instrumentos financieros.
           ol.caja-text-img-tema1-5
             li 
               .lista-ol--cuadro__vineta
                 span b
-              | al convertir los resultados y la situación financiera de los negocios en el extranjero que se incluyan en los estados financieros de la entidad, ya sea por consolidación o por el método de la participación; y 
+              | Al convertir los resultados y la situación financiera de los negocios en el extranjero que se incluyan en los estados financieros de la entidad, ya sea por consolidación o por el método de la participación.
           ol.caja-text-img-tema1-5
             li 
               .lista-ol--cuadro__vineta
                 span c
-              | al convertir los resultados y la situación financiera de la entidad en una moneda de presentación. (CTCP, 2019c, p.503).
+              | Al convertir los resultados y la situación financiera de la entidad en una moneda de presentación. (CTCP, 2019c, p. 503).
       
       p.mb-4 Para ampliar el alcance y lineamientos aplicables es importante revisar la Norma Internacional vigente; para ello, explore los siguientes enlaces:
 
