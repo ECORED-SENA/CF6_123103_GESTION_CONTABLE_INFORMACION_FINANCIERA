@@ -48,7 +48,7 @@
       .col
         h3 Equivalentes al efectivo
     
-    p.mb-5.ajuste-espacios-movil Este concepto hace énfasis a las inversiones en corto plazo (menores a 90 días), que tienen gran liquidez y se encuentran sujetas a un riesgo insignificante. Entre los equivalentes al efectivo encontramos las siguientes inversiones: Certificado de depósito a término (CDT), bonos y fiducia.
+    p.mb-5.ajuste-espacios-movil Este concepto hace énfasis en las inversiones en corto plazo (menores a 90 días), que tienen gran liquidez y se encuentran sujetas a un riesgo insignificante. Entre los equivalentes al efectivo encontramos las siguientes inversiones: Certificado de depósito a término (CDT), bonos y fiducia.
 
     .row.mb-5.align-items-center.ajuste-espacios-movil
       .col-xl-auto
@@ -345,22 +345,22 @@
             tbody
               tr
                 td.ajuste-border-tabla.texto-left Elementos de aseo
-                td.texto-left $120.000
+                td.texto-left $ 120.000
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Papelería
-                td.texto-left $80.000
+                td.texto-left $ 80.000
               tr  
                 td.ajuste-border-tabla.texto-left Transporte
-                td.texto-left $150.000
+                td.texto-left $ 150.000
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Almuerzos 
-                td.texto-left $80.000 
+                td.texto-left $ 80.000 
               tr  
                 td.ajuste-border-tabla.texto-left Gasolina
-                td.texto-left $50.000
+                td.texto-left $ 50.000
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left <strong>Total</strong>
-                td.texto-left <strong>$480.000</strong>
+                td.texto-left <strong>$ 480.000</strong>
     
     .row.mb-3.align-items-center
       .col-xl-1
@@ -386,22 +386,22 @@
           table
             thead
               tr
-                th.ajuste-border-tabla Cuenta
-                th.ajuste-border-tabla Debe
-                th Haber
+                th.ajuste-border-tabla.texto-left Cuenta
+                th.ajuste-border-tabla.texto-left Debe
+                th.texto-left Haber
             tbody
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Caja Menor
-                td.ajuste-border-tabla.texto-left $500.000
+                td.ajuste-border-tabla.texto-left $ 500.000
                 td.texto-left -
               tr
                 td.ajuste-border-tabla.texto-left Bancos
                 td.ajuste-border-tabla.texto-left -
-                td.texto-left $500.000
+                td.texto-left $ 500.000
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left <strong>Total</strong>
-                td.ajuste-border-tabla.texto-left $500.000
-                td.texto-left $500.000
+                td.ajuste-border-tabla.texto-left $ 500.000
+                td.texto-left $ 500.000
       .col-xl-4
         figure(data-aos="fade-right").d-none.d-xl-block
           img(src="@/assets/curso/tema1/img26.svg" style="max-width: 400px").m-auto
@@ -441,7 +441,7 @@
     .row.mb-3.align-items-center
       .col-xl-1
       .col-xl-10
-        p.mb-4 La siguiente tabla presenta el registro contable del reintegro de caja menor. En ella se detallan los conceptos por los cuales se efectuaron desembolsos, clasificados por tipo de gasto, con sus respectivos valores en el debe. La cuenta “Bancos” figura en el haber, reflejando el reembolso total por $480.000.
+        p.mb-4 La siguiente tabla presenta el registro contable del reintegro de caja menor. En ella se detallan los conceptos por los cuales se efectuaron desembolsos, clasificados por tipo de gasto, con sus respectivos valores en el debe. La cuenta “Bancos” figura en el haber, reflejando el reembolso total por $ 480.000.
     
     .row.mb-3.align-items-center
       .col-xl-1
@@ -459,32 +459,32 @@
             tbody
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Combustibles y lubricantes
-                td.ajuste-border-tabla.texto-left $50.000
+                td.ajuste-border-tabla.texto-left $ 50.000
                 td.texto-left -
               tr
                 td.ajuste-border-tabla.texto-left Elementos de aseo
-                td.ajuste-border-tabla.texto-left $120.000
+                td.ajuste-border-tabla.texto-left $ 120.000
                 td.texto-left -
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Transporte y fletes
-                td.ajuste-border-tabla.texto-left $150.000
+                td.ajuste-border-tabla.texto-left $ 150.000
                 td.texto-left -
               tr
                 td.ajuste-border-tabla.texto-left Útiles, papelería y fotocopias
-                td.ajuste-border-tabla.texto-left $80.000
+                td.ajuste-border-tabla.texto-left $ 80.000
                 td.texto-left -
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Casino y restaurante
-                td.ajuste-border-tabla.texto-left $80.000
+                td.ajuste-border-tabla.texto-left $ 80.000
                 td.texto-left -
               tr
                 td.ajuste-border-tabla.texto-left Bancos
                 td.ajuste-border-tabla.texto-left -
-                td.texto-left $480.000
+                td.texto-left $ 480.000
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left <strong>Total</strong>
-                td.ajuste-border-tabla.texto-left <strong>$480.000</strong>
-                td.texto-left <strong>$480.000</strong>
+                td.ajuste-border-tabla.texto-left <strong>$ 480.000</strong>
+                td.texto-left <strong>$ 480.000</strong>
       .col-xl-4
         figure(data-aos="fade-right").d-none.d-xl-block
           img(src="@/assets/curso/tema1/img29.svg" style="max-width: 400px").m-auto
@@ -589,6 +589,9 @@
             .tabla-a(data-aos="fade-up").ajuste___tabla_4
               table
                 caption Fuente:  Sinisterra V., Polanco L., y Henao H. (2011)
+                thead
+                  th.ajuste-border-tabla.texto-left Concepto
+                  th.ajuste-border-tabla.texto-left Valor
                 tbody
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left Saldo del extracto bancario
@@ -687,28 +690,28 @@
                   tbody
                     tr
                       td.ajuste-border-tabla.texto-left Saldo en libros
-                      td.texto-left $1.170.122 
+                      td.texto-left $ 1.170.122 
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left Menos: Notas débito
-                      td.texto-left $579.666 
+                      td.texto-left $ 579.666 
                     tr
                       td.ajuste-border-tabla.texto-left Más: Notas crédito
-                      td.texto-left $12.566 
+                      td.texto-left $ 12.566 
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left Saldo ajustado en libros
-                      td.texto-left $603.022 
+                      td.texto-left $ 603.022 
                     tr
                       td.ajuste-border-tabla.texto-left Saldo en extracto bancario a 31 marzo
-                      td.texto-left $8.955.336 
+                      td.texto-left $ 8.955.336 
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left Más: consignaciones en tránsito
-                      td.texto-left $1.955.336 
+                      td.texto-left $ 1.955.336 
                     tr
                       td.ajuste-border-tabla.texto-left Menos: cheques girados y no cobrados
-                      td.texto-left $10.307.650 
+                      td.texto-left $ 10.307.650 
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left Saldo ajustado al extracto
-                      td.texto-left $603.022 
+                      td.texto-left $ 603.022 
             .col-xl-4
               figure(data-aos="fade-left").d-none.d-xl-block
                 img(src='@/assets/curso/tema1/img45.svg', alt='' style="max-width: 400px")
