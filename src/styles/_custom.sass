@@ -2,18 +2,19 @@
   &-1
     animation: float 1.5s ease-in-out infinite alternate
     position: absolute
-    top: 25%
-    left: -10%
+    top: 20%
+    left: -5%
   &-2
     animation: floatZoom 5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
+    top: 70%
     right: 2%
   &-3
     animation: floatRotate 5s ease-in-out infinite alternate
     position: absolute
-    top: 65%
-    left: -10%
+    width: 120px
+    top: 60%
+    left: 10%
 
 @keyframes float
   0%
@@ -45,9 +46,11 @@
     background-image: url("../assets/curso/portada/fondo-banner-principal2.png") !important
 
 .banner-principal__row .banner-principal__img
-  width: 300px !important 
-  @media screen and (min-width: 1400px)
-    width: 355px !important
+  width: 450px !important 
+  padding-bottom: 0px !important
+  margin-bottom: 0px !important
+  @media screen and (max-width: 1200px)
+    width: 370px !important
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: black !important
